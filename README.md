@@ -1,4 +1,10 @@
 # AI & ML Evaluation Lab
+Ebook preview: https://drive.google.com/file/d/187yV176zHaXVozFlfz10X-5YmNviCrFp/view?usp=sharing
+
+Premium Book Link: https://shop.beacons.ai/aiengineeringinsider/600891df-7770-4d54-9d59-6ed445d35ba7
+
+<img width="1241" height="1754" alt="main-1-32_page-0001" src="https://github.com/user-attachments/assets/e4fb3f6a-4645-486f-b4af-678b2f6423d3" />
+
 
 The runnable companion to the ebook **Cracking AI & ML Evaluation System Design Interviews**.
 
