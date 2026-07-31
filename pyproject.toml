@@ -1,0 +1,19 @@
+[project]
+name = "ai-ml-evaluation-lab"
+version = "1.0.0"
+description = "Companion code project for the AI & ML Evaluation System Design ebook"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q --strict-markers"
+filterwarnings = ["ignore::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = ["E501"]

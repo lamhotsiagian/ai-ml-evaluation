@@ -1,0 +1,40 @@
+# ---------------------------------------------------------------------------
+# AI & ML Evaluation Lab -- runtime dependencies
+# Python 3.11+
+# ---------------------------------------------------------------------------
+
+# --- Orchestration ---------------------------------------------------------
+langchain==0.3.27
+langchain-core==0.3.79
+langchain-community==0.3.31
+langchain-google-genai==2.1.13
+langgraph==0.6.9
+
+# --- Google Gemini (free tier) --------------------------------------------
+google-generativeai==0.8.5
+
+# --- Vector store ----------------------------------------------------------
+chromadb==0.5.23
+langchain-chroma==0.2.7
+
+# --- Front end -------------------------------------------------------------
+streamlit==1.42.2
+plotly==5.24.1
+
+# --- Numerics / metrics ----------------------------------------------------
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.5.2
+
+# --- Data contracts & settings --------------------------------------------
+pydantic==2.10.6
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# --- Retry / resilience ----------------------------------------------------
+tenacity==9.0.0
+
+# --- Testing ---------------------------------------------------------------
+pytest==8.3.4
+pytest-asyncio==0.25.2
